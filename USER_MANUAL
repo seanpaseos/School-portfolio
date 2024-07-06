@@ -1,1 +1,33 @@
+**Introduction**
 
+Swipper is a revolutionary job-swiping app designed to streamline your job search experience. Combining "Swipe" with "Career," Swipper aims to offer users a curated selection of job opportunities, detailed job descriptions, and personalized recommendations. The app is user-friendly, allowing anyone to easily create an account, browse through a diverse range of job listings, and apply with a simple swipe. Additionally, Swipper fosters a dynamic community for job seekers, making it the go-to platform for anyone looking to enhance their career prospects effortlessly.
+
+**Usage Instructions**
+
+The prototype of Swipper was created using Canva, a design tool that allows us to showcase how the app will look and function. Canva provides an accessible platform for developing and sharing the visual design of Swipper's prototype, ensuring that all features and functionalities are effectively demonstrated to users.
+
+**Sample Flow: Login Page**
+
+To get started with Swipper, launch the app and navigate to the login page. Enter your credentials, such as your email and password, and if you're unsure about your password, use the "Forgot Password?" link to reset it. Once your credentials are entered correctly, tap the "Login" button. Swipper will verify your information, and you'll be logged into your account, allowing you to access features like job recommendations, application history, and settings.
+
+**Sample Flow: Job Browsing**
+
+Using Swipper's search bar at the top of the screen, you can search for jobs by entering keywords or job titles. To narrow down the search, apply filters such as location, industry, and salary range. The app will display a list of jobs matching your criteria, complete with thumbnails, brief descriptions, and salaries. Tap on any job to explore its details, including job responsibilities, requirements, and company information.
+
+**Sample Flow: Swiping Jobs**
+
+Swiping jobs on Swipper is straightforward. Select a job from the list to view its detailed description. Swipe right to like a job and indicate your interest, or swipe left to pass on a job. You will receive notifications when there is mutual interest between you and an employer, enhancing your job search experience by focusing on relevant opportunities.
+
+**Sample Flow: Applying for Jobs**
+
+Once you have matched with jobs, access them from the "Matches" section. You can then directly apply for these jobs by submitting your resume and cover letter through the app. Track the status of your applications in the "Applications" section, ensuring you stay updated on your job search progress.
+
+**Sample Flow: Communication with Employers**
+
+Swipper's in-app messaging feature allows you to communicate with employers who have shown interest in your profile. You can schedule interview times and discuss details through the messaging platform, facilitating direct and efficient communication with potential employers.
+
+**Sample Flow: Checking Out Additional Features**
+
+Swipper offers additional features to enhance your job search. Regularly update your profile to keep it relevant and attractive to employers. Set up job alerts to receive notifications about new job postings that match your criteria. If you need assistance, access the help section for FAQs or contact customer support. These features ensure a comprehensive and user-friendly experience, helping you maximize your job search efforts.
+
+Thank you for choosing Swipper! We wish you success in your job search.
